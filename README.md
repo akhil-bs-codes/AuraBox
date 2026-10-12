@@ -6,6 +6,8 @@
 
 <sub><em>AuraBox is an independent publisher of developer tools for Visual Studio Code, Open VSX, and npm — built to remove friction and keep your focus on the code.</em></sub>
 
+<sub><strong>README</strong> &nbsp;·&nbsp; v1.0.0</sub>
+
 <br><br>
 
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/VS%20Code-8%20extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
