@@ -211,14 +211,14 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 ### ◈ Activity
 
-<a href="https://github.com/dark-aura-95">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dark-aura-95&show_icons=true&hide_border=true&title_color=6f42c1&icon_color=6f42c1&text_color=8b949e&bg_color=00000000&count_private=true" alt="GitHub stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-aura-95&layout=compact&hide_border=true&title_color=6f42c1&text_color=8b949e&bg_color=00000000&langs_count=8" alt="Top languages">
+<a href="https://github.com/akhil-bs-codes">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=akhil-bs-codes&show_icons=true&hide_border=true&title_color=6f42c1&icon_color=6f42c1&text_color=8b949e&bg_color=00000000&count_private=true" alt="GitHub stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-bs-codes&layout=compact&hide_border=true&title_color=6f42c1&text_color=8b949e&bg_color=00000000&langs_count=8" alt="Top languages">
 </a>
 
 <br>
 
-<a href="https://github.com/dark-aura-95"><img src="https://komarev.com/ghpvc/?username=dark-aura-95&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" alt="Profile views"></a>
+<a href="https://github.com/akhil-bs-codes"><img src="https://komarev.com/ghpvc/?username=akhil-bs-codes&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" alt="Profile views"></a>
 
 </div>
 
@@ -233,7 +233,7 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/Marketplace-AuraBox-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Marketplace"></a>
 <a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-AuraBox-c160ef?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-_darkaura-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-<a href="https://github.com/dark-aura-95"><img src="https://img.shields.io/badge/GitHub-dark--aura--95-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/akhil-bs-codes"><img src="https://img.shields.io/badge/GitHub-akhil--bs--codes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br>
 
