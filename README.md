@@ -203,27 +203,6 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 </div>
 
-<br>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░  ACTIVITY  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-### ◈ Activity
-
-<a href="https://github.com/akhil-bs-codes">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=akhil-bs-codes&show_icons=true&hide_border=true&title_color=6f42c1&icon_color=6f42c1&text_color=8b949e&bg_color=00000000&count_private=true" alt="GitHub stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-bs-codes&layout=compact&hide_border=true&title_color=6f42c1&text_color=8b949e&bg_color=00000000&langs_count=8" alt="Top languages">
-</a>
-
-<br>
-
-<a href="https://github.com/akhil-bs-codes"><img src="https://komarev.com/ghpvc/?username=akhil-bs-codes&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" alt="Profile views"></a>
-
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,27" width="100%" alt="divider">
 
 <div align="center">
