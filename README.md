@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,27&text=AuraBox&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Small%2C%20considered%20tools%20for%20your%20editor%20and%20terminal&descAlignY=58&descSize=18" alt="AuraBox" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,20,24,27&text=AuraBox&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Small%2C%20considered%20tools%20for%20your%20editor%20and%20terminal&descAlignY=62&descSize=18" width="100%" alt="AuraBox">
 </a>
 
 <sub><em>AuraBox is an independent publisher of developer tools for Visual Studio Code, Open VSX, and npm — built to remove friction and keep your focus on the code.</em></sub>
@@ -11,13 +11,13 @@
 <br><br>
 
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/VS%20Code-8%20extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
-<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-9%20extensions-c160ef?style=for-the-badge" alt="Open VSX"></a>
+<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-9%20extensions-7C3AED?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-<a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"></a>
+<a href="#license"><img src="https://img.shields.io/badge/license-MIT-22D3EE?style=for-the-badge" alt="License"></a>
 
 <br><br>
 
-<a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6F42C1&center=true&vCenter=true&width=620&lines=Clean+UIs+for+the+hosts+file;Track+tasks+without+leaving+VS+Code;A+Git+client+that+actually+feels+good;Themes%2C+battery+health%2C+.env+tooling+%E2%80%94+and+more" alt="Typing SVG"></a>
+<a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=AI-ready+developer+tooling;Clean+UIs+for+the+hosts+file;Track+tasks+without+leaving+VS+Code;A+Git+client+that+actually+feels+good;Themes%2C+battery+health%2C+.env+tooling" alt="Typing SVG"></a>
 
 </div>
 
@@ -193,7 +193,7 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 ### Find AuraBox
 
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/Marketplace-AuraBox-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Marketplace"></a>
-<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-AuraBox-c160ef?style=for-the-badge" alt="Open VSX"></a>
+<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-AuraBox-7C3AED?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-_darkaura-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="https://github.com/akhil-bs-codes"><img src="https://img.shields.io/badge/GitHub-akhil--bs--codes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
