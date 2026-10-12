@@ -11,7 +11,6 @@
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/VS%20Code-8%20extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
 <a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-9%20extensions-c160ef?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-<a href="#-extensions"><img src="https://img.shields.io/badge/Open%20VSX%20downloads-9.2k-2ea043?style=for-the-badge" alt="Downloads"></a>
 <a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"></a>
 
 <br><br>
@@ -39,8 +38,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 **Manage your system hosts file**<br>with a clean, modern UI.<br><sub>Windows · Linux · macOS</sub>
 
-<a href="https://open-vsx.org/extension/AuraBox/host-file-editor"><img src="https://img.shields.io/badge/2%2C324-6f42c1?style=flat-square" alt="downloads"></a>
-
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.host-file-editor) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/host-file-editor)
 
 </td>
@@ -50,8 +47,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 **Track tasks with statuses**<br>across fully custom report<br>sections in an editor panel.
 
-<a href="https://open-vsx.org/extension/AuraBox/task-digest"><img src="https://img.shields.io/badge/1%2C954-007ACC?style=flat-square" alt="downloads"></a>
-
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.task-digest) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/task-digest)
 
 </td>
@@ -60,8 +55,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 <img src="https://img.shields.io/open-vsx/v/AuraBox/git-studio-max?style=for-the-badge&label=Git%20Studio%20Max&color=c160ef" alt="Git Studio Max">
 
 **Visual Git client** with<br>commit graph, branch<br>manager, and more.
-
-<a href="https://open-vsx.org/extension/AuraBox/git-studio-max"><img src="https://img.shields.io/badge/1%2C320-c160ef?style=flat-square" alt="downloads"></a>
 
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.git-studio-max) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/git-studio-max)
 
@@ -74,8 +67,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 **Multi-file `.env` profiles**,<br>env diffing, validation<br>diagnostics, secret masking.
 
-<a href="https://open-vsx.org/extension/AuraBox/multi-dotenv"><img src="https://img.shields.io/badge/974-2ea043?style=flat-square" alt="downloads"></a>
-
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.multi-dotenv) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/multi-dotenv)
 
 </td>
@@ -85,8 +76,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 **OLED black/gray theme** with<br>JetBrains Islands–inspired<br>syntax and matching icons.
 
-<a href="https://open-vsx.org/extension/AuraBox/umbra-black"><img src="https://img.shields.io/badge/832-181717?style=flat-square" alt="downloads"></a>
-
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.umbra-black) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/umbra-black)
 
 </td>
@@ -95,8 +84,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 <img src="https://img.shields.io/open-vsx/v/AuraBox/battery-health-report?style=for-the-badge&label=Battery%20Health%20Report&color=d29922" alt="Battery Health Report">
 
 **Check your laptop's**<br>battery capacity, cycle<br>count, and condition.
-
-<a href="https://open-vsx.org/extension/AuraBox/battery-health-report"><img src="https://img.shields.io/badge/658-d29922?style=flat-square" alt="downloads"></a>
 
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.battery-health-report) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/battery-health-report)
 
@@ -109,8 +96,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 **Pin extensions as icons**<br>in the editor title bar.<br>Click or use shortcuts.
 
-<a href="https://open-vsx.org/extension/AuraBox/extension-bar"><img src="https://img.shields.io/badge/496-e34c26?style=flat-square" alt="downloads"></a>
-
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.extension-bar) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/extension-bar)
 
 </td>
@@ -120,8 +105,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 
 **Configuration sync** for<br>VS Code, Cursor, Windsurf,<br>and VSCodium.
 
-<a href="https://open-vsx.org/extension/AuraBox/codebridge-sync"><img src="https://img.shields.io/badge/410-1f6feb?style=flat-square" alt="downloads"></a>
-
 [VS Code](https://marketplace.visualstudio.com/items?itemName=AuraBox.codebridge-sync) &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/extension/AuraBox/codebridge-sync)
 
 </td>
@@ -130,8 +113,6 @@ Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.co
 <img src="https://img.shields.io/open-vsx/v/AuraBox/ts-schemacraft?style=for-the-badge&label=TS-schemaCraft&color=b91c8f" alt="TS-schemaCraft">
 
 **Paste a JS object** and<br>instantly generate TS<br>interfaces, types, or JSON Schema.
-
-<a href="https://open-vsx.org/extension/AuraBox/ts-schemacraft"><img src="https://img.shields.io/badge/302-b91c8f?style=flat-square" alt="downloads"></a>
 
 [Open VSX](https://open-vsx.org/extension/AuraBox/ts-schemacraft)
 
