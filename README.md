@@ -14,6 +14,7 @@
 <a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-9%20extensions-7C3AED?style=for-the-badge" alt="Open VSX"></a>
 <a href="https://www.npmjs.com/~_darkaura"><img src="https://img.shields.io/badge/npm-6%20packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="#license"><img src="https://img.shields.io/badge/license-MIT-22D3EE?style=for-the-badge" alt="License"></a>
+<a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI--ready-7C3AED?style=for-the-badge" alt="AI-ready"></a>
 
 <br><br>
 
@@ -21,11 +22,11 @@
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░  EXTENSIONS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ============================  EXTENSIONS  ============================ -->
 
 <div align="center">
 
-### ◈ Extensions
+### 🟣 ◈ Extensions
 
 Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/AuraBox)
 &nbsp;·&nbsp; [Open VSX](https://open-vsx.org/namespace/AuraBox)
@@ -141,11 +142,13 @@ Or search **AuraBox** in the Extensions view of VS Code, Cursor, Windsurf, or VS
 
 </details>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  NPM  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,27" width="100%" alt="divider">
+
+<!-- ==============================  NPM  =============================== -->
 
 <div align="center">
 
-### ◈ npm Packages
+### 🟢 ◈ npm Packages
 
 </div>
 
@@ -176,11 +179,13 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 </details>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  STACK  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,27" width="100%" alt="divider">
+
+<!-- =============================  STACK  ============================== -->
 
 <div align="center">
 
-### ◈ Built with
+### 🔵 ◈ Built with
 
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,html,css,git,github,vscode&theme=dark" alt="tech stack">
 
@@ -188,9 +193,11 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,27" width="100%" alt="divider">
 
+<!-- ============================  FIND US  ============================= -->
+
 <div align="center">
 
-### Find AuraBox
+### 🌟 Find AuraBox
 
 <a href="https://marketplace.visualstudio.com/publishers/AuraBox"><img src="https://img.shields.io/badge/Marketplace-AuraBox-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Marketplace"></a>
 <a href="https://open-vsx.org/namespace/AuraBox"><img src="https://img.shields.io/badge/Open%20VSX-AuraBox-7C3AED?style=for-the-badge" alt="Open VSX"></a>
