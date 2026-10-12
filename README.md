@@ -212,7 +212,7 @@ Or search **`_darkaura`** on [npm](https://www.npmjs.com/~_darkaura).
 
 Released under the **MIT** license. See [`LICENSE`](LICENSE) for details.
 
-Copyright (c) 2026 dark-aura-95
+Copyright (c) 2026 Akhil B S
 
 </sub>
 
